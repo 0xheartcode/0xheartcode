@@ -5,4 +5,4 @@
 - 📫 How to reach me https://twitter.com/0xheartcode
 
 
-[![heartcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartcode)](https://github.com/heartcode/github-readme-stats)
+[![0xheartcodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xheartcode)](https://github.com/0xheartcode/github-readme-stats)
