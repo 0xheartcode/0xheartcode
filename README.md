@@ -5,8 +5,8 @@
 - 📫 How to reach me https://twitter.com/0xheartcode
 
 
-![0xheartcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xheartcode&show_icons=true&theme=transparent)
+![0xheartcode's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0xheartcode&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xheartcode&layout=compact)](https://github.com/0xheartcode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=0xheartcode&layout=compact)](https://github.com/0xheartcode/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=0xheartcode&color=green&style=for-the-badge)
