@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @0xheartcode
-- 👀 I’m interested in solidity, nodejs, react, ts, python, bash, rust
+- 👀 I’m interested in solidity, nodejs, react, express, ts, django, python, bash, rust
 - 🌱 I’m currently learning all the above
-- 💞️ I’m looking to ~~collaborate on crypto contracts and cybersecurity~~ get better really fast	
-- 📫 How to reach me https://twitter.com/0xheartcode
+- 💞️ I’m looking to ~~write contracts, bots, automate trades and audit~~ code	
+- 📫 How to reach me https://t.me/heartcodex0
 
 
 ![0xheartcode's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=0xheartcode&show_icons=true&theme=transparent)
