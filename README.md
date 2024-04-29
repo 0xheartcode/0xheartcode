@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @0xheartcode
 - 👀 I’m interested in solidity, nodejs, react, express, ts, django, python, bash, rust
-- 🌱 I’m currently learning all the above
 - 💞️ I’m looking to ~~write contracts, bots, automate trades and audit~~ code	
 - 📫 How to reach me https://t.me/heartcodex0
 
