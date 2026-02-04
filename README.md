@@ -4,7 +4,8 @@ Fireflies emerge, lighting lanes over wetlands.
 Many animals come hunting insects near evening. 
 
 The hills echo.
-Hidden under moonlight, animals navigate silently. 
+Hidden under moonlight, animals navigate silently.
+
 Soft undertones suggest peace, even calming tension. 
 Night owls trace horizons in nocturnal gliding.
 
